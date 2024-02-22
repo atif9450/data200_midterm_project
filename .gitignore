@@ -5,3 +5,5 @@
 2018
 2019
 *.csv
+testing.ipynb
+.ipynb_checkpoints
