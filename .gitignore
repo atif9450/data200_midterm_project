@@ -1,3 +1,5 @@
 parl-csv
 *.csv
 .ipynb_checkpoints
+2015_ridings
+*.kmz
